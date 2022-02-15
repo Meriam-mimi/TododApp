@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/TododApp/static/css/main.2b5ca1f9.chunk.css",
-    "main.js": "/TododApp/static/js/main.d570de19.chunk.js",
-    "main.js.map": "/TododApp/static/js/main.d570de19.chunk.js.map",
+    "main.js": "/TododApp/static/js/main.01441599.chunk.js",
+    "main.js.map": "/TododApp/static/js/main.01441599.chunk.js.map",
     "runtime-main.js": "/TododApp/static/js/runtime-main.b3a3a441.js",
     "runtime-main.js.map": "/TododApp/static/js/runtime-main.b3a3a441.js.map",
-    "static/js/2.8e90f3ce.chunk.js": "/TododApp/static/js/2.8e90f3ce.chunk.js",
-    "static/js/2.8e90f3ce.chunk.js.map": "/TododApp/static/js/2.8e90f3ce.chunk.js.map",
+    "static/js/2.9c430a7d.chunk.js": "/TododApp/static/js/2.9c430a7d.chunk.js",
+    "static/js/2.9c430a7d.chunk.js.map": "/TododApp/static/js/2.9c430a7d.chunk.js.map",
     "index.html": "/TododApp/index.html",
     "static/css/main.2b5ca1f9.chunk.css.map": "/TododApp/static/css/main.2b5ca1f9.chunk.css.map",
-    "static/js/2.8e90f3ce.chunk.js.LICENSE.txt": "/TododApp/static/js/2.8e90f3ce.chunk.js.LICENSE.txt"
+    "static/js/2.9c430a7d.chunk.js.LICENSE.txt": "/TododApp/static/js/2.9c430a7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3a3a441.js",
-    "static/js/2.8e90f3ce.chunk.js",
+    "static/js/2.9c430a7d.chunk.js",
     "static/css/main.2b5ca1f9.chunk.css",
-    "static/js/main.d570de19.chunk.js"
+    "static/js/main.01441599.chunk.js"
   ]
 }
