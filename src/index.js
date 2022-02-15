@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import { Route, Routes } from "react-router-dom";
 
 //component file
@@ -14,7 +14,7 @@ import "./functionBased/App.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <HashRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Routes>
         <Route path="/" element={<TodoContainer />} />
@@ -23,7 +23,7 @@ ReactDOM.render(
 
         <Route path="*" element={<NotMatch />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
