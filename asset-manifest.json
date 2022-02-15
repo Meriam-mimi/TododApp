@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Meriam-mimi/TododApp.git/static/css/main.89617445.chunk.css",
-    "main.js": "/Meriam-mimi/TododApp.git/static/js/main.b419ba25.chunk.js",
-    "main.js.map": "/Meriam-mimi/TododApp.git/static/js/main.b419ba25.chunk.js.map",
+    "main.css": "/Meriam-mimi/TododApp.git/static/css/main.2b5ca1f9.chunk.css",
+    "main.js": "/Meriam-mimi/TododApp.git/static/js/main.d570de19.chunk.js",
+    "main.js.map": "/Meriam-mimi/TododApp.git/static/js/main.d570de19.chunk.js.map",
     "runtime-main.js": "/Meriam-mimi/TododApp.git/static/js/runtime-main.5ec707d7.js",
     "runtime-main.js.map": "/Meriam-mimi/TododApp.git/static/js/runtime-main.5ec707d7.js.map",
-    "static/js/2.5f4a15d9.chunk.js": "/Meriam-mimi/TododApp.git/static/js/2.5f4a15d9.chunk.js",
-    "static/js/2.5f4a15d9.chunk.js.map": "/Meriam-mimi/TododApp.git/static/js/2.5f4a15d9.chunk.js.map",
+    "static/js/2.8e90f3ce.chunk.js": "/Meriam-mimi/TododApp.git/static/js/2.8e90f3ce.chunk.js",
+    "static/js/2.8e90f3ce.chunk.js.map": "/Meriam-mimi/TododApp.git/static/js/2.8e90f3ce.chunk.js.map",
     "index.html": "/Meriam-mimi/TododApp.git/index.html",
-    "static/css/main.89617445.chunk.css.map": "/Meriam-mimi/TododApp.git/static/css/main.89617445.chunk.css.map",
-    "static/js/2.5f4a15d9.chunk.js.LICENSE.txt": "/Meriam-mimi/TododApp.git/static/js/2.5f4a15d9.chunk.js.LICENSE.txt"
+    "static/css/main.2b5ca1f9.chunk.css.map": "/Meriam-mimi/TododApp.git/static/css/main.2b5ca1f9.chunk.css.map",
+    "static/js/2.8e90f3ce.chunk.js.LICENSE.txt": "/Meriam-mimi/TododApp.git/static/js/2.8e90f3ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ec707d7.js",
-    "static/js/2.5f4a15d9.chunk.js",
-    "static/css/main.89617445.chunk.css",
-    "static/js/main.b419ba25.chunk.js"
+    "static/js/2.8e90f3ce.chunk.js",
+    "static/css/main.2b5ca1f9.chunk.css",
+    "static/js/main.d570de19.chunk.js"
   ]
 }
