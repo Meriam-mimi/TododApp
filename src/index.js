@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, useHistory } from "react-router-dom";
-import { Route, Switch, Routes } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
+
 //component file
 import TodoContainer from "./functionBased/components/TodoContainer";
 import Navbar from "./functionBased/components/Navbar";
@@ -13,7 +14,7 @@ import "./functionBased/App.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<TodoContainer />} />
@@ -22,7 +23,7 @@ ReactDOM.render(
 
         <Route path="*" element={<NotMatch />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
